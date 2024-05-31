@@ -1,0 +1,14 @@
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\bin\Debug\net8.0\daire.exe
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\bin\Debug\net8.0\daire.deps.json
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\bin\Debug\net8.0\daire.runtimeconfig.json
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\bin\Debug\net8.0\daire.dll
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\bin\Debug\net8.0\daire.pdb
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\obj\Debug\net8.0\daire.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\obj\Debug\net8.0\daire.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\obj\Debug\net8.0\daire.AssemblyInfo.cs
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\obj\Debug\net8.0\daire.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\obj\Debug\net8.0\daire.dll
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\obj\Debug\net8.0\refint\daire.dll
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\obj\Debug\net8.0\daire.pdb
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\obj\Debug\net8.0\daire.genruntimeconfig.cache
+c:\Users\HP\Desktop\Patika\C#-Projeleri\daire\obj\Debug\net8.0\ref\daire.dll
